@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, I'm Habib Ilham - aka habib 👋
+## About me:
+- 🔭 I’m currently studying at Brawijaya university
+- 🌱 I’m currently learning Figma and Canva 
+- 🤔 I'm having interest to Graphic Design and Illustration
+- 💬 Ask me about anything
+- 📫 How to reach me: hbbilham@gmail.com
 
-<!--
-**hababaa-end/hababaa-end** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+#### 1. [Universitas Brawijaya]|Information Technology and Computer | Malang '2021-Now'
+- Staff of KIVA Multimedia Vocation
+ #### 2. [SMA Science Plus Baitul Qur'an]| MIPA | Sragen '2018-2021'
+- Staff of Rohis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
